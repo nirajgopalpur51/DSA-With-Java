@@ -1,5 +1,3 @@
-package Github;
-
 public class maxConsecutiveOnes {
     public static int findMaxConsecutiveOnes(int[] nums) {
         int count=0;
