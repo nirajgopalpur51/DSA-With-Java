@@ -1,5 +1,3 @@
-package Github;
-
 public class numberofGoodPairs {
     public static int numIdenticalPairs(int[] nums) {
         int n=0;
