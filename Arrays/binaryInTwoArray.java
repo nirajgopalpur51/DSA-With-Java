@@ -1,5 +1,3 @@
-package Array;
-
 public class binaryInTwoArray {
    public static   boolean BinarySearch(int arr[][], int rows, int cols, int target){
        int s=0;
