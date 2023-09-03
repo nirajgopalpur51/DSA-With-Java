@@ -1,5 +1,3 @@
-package Github;
-
 public class climbingStairs {
     public static int climb(int n) {
         if(n<=3){
