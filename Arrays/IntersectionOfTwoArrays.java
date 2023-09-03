@@ -1,5 +1,3 @@
-package Array;
-
 public class IntersectionOfTwoArrays {
     public static void main(String[] args) {
         int arr1[]={1,2,4,5,6};
