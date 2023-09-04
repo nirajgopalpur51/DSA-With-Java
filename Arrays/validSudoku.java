@@ -1,4 +1,4 @@
-package Github;
+
 import java.util.*;
 public class validSudoku {
     public boolean isValidSudoku(char[][] board) {
