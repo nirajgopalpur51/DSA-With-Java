@@ -1,5 +1,3 @@
-package Array;
-
 public class twoArray {
     public static void main(String[] args) {
         int arr[][]={
