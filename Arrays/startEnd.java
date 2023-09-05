@@ -1,5 +1,3 @@
-package Array;
-
 public class startEnd {
     public static void main(String[] args) {
 
