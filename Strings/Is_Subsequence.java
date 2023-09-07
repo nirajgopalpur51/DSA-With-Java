@@ -1,5 +1,3 @@
-package Github;
-
 public class Is_Subsequence {
     public static boolean isSubsequence(String s, String t) {
 
