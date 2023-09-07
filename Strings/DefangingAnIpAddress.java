@@ -1,5 +1,3 @@
-package Github;
-
 public class DefangingAnIpAddress {
     public static String defangIPaddr(String address) {
         return address.replace(".","[.]");
