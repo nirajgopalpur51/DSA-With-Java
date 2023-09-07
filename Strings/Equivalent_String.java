@@ -1,5 +1,3 @@
-package Github;
-
 public class Equivalent_String {
     public static boolean checkAlmostEquivalent(String word1, String word2) {
 
