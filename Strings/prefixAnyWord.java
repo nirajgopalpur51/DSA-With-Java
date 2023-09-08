@@ -1,5 +1,3 @@
-package Github;
-
 public class prefixAnyWord {
     public static int isPrefixOfWord(String sentence, String searchWord) {
         String[] words = sentence.split(" ");
