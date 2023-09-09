@@ -1,5 +1,3 @@
-package Github;
-
 public class faultyKeyboard {
     public static String finalString(String s) {
 
