@@ -1,5 +1,3 @@
-package Github;
-
 public class excelSheetColumnNumber {
     public static int titleToNumber(String columnTitle) {
         int result=0;
