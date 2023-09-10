@@ -1,5 +1,3 @@
-package Github;
-
 public class RansomNote {
     public static boolean canConstruct(String ransomNote, String magazine) {
         int count[]=new int[26];
