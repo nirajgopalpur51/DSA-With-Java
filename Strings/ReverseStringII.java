@@ -1,5 +1,3 @@
-package Github;
-
 public class ReverseStringII {
     public static String reverseStr(String s, int k) {
         char[] str = s.toCharArray();
