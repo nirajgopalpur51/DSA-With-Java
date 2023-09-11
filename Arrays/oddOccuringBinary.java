@@ -1,5 +1,3 @@
-package Array;
-
 public class oddOccuringBinary {
     public static int solve(int arr[]){
         int s=0;
