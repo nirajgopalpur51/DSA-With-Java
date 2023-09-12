@@ -1,5 +1,3 @@
-package Github;
-
 public class rotateArray {
     public static void reverse(int nums[] ,int start,int end){
         while(start<end){
