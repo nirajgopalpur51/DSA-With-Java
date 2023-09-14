@@ -1,5 +1,3 @@
-package Github;
-
 public class VerifyPreorderSerializationBinaryTree {
     public static boolean isValidSerialization(String preorder) {
         String[] nodes = preorder.split(",");
