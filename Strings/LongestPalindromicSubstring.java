@@ -1,5 +1,3 @@
-package Github;
-
 public class LongestPalindromicSubstring {
     public static String  longestPalindrome(String s) {
         int start=0, end=0;
