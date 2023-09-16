@@ -1,5 +1,3 @@
-package Github;
-
 public class singleNumber {
     public static int singleNumber(int[] nums) {
         int  value=0;
