@@ -1,5 +1,3 @@
-package Github;
-
 public class PalindromeNumber {
     public static boolean isPalindrome(int x) {
         String number = Integer.toString(x);
