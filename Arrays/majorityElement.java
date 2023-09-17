@@ -1,5 +1,3 @@
-package Github;
-
 public class majorityElement {
     public static int majorityElement(int[] nums) {
         int cand=0;
