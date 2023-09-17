@@ -1,5 +1,3 @@
-package Github;
-
 public class removeDupl_SortedArray {
     public static int removeDuplicates(int[] nums) {
         int i=0;
