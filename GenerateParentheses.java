@@ -1,4 +1,3 @@
-package Github;
 import java.util.*;
 public class GenerateParentheses {
     public static List<String> generateParenthesis(int n) {
