@@ -1,5 +1,3 @@
-package Array;
-
 public class findMissingWithDuplicates {
     public static void findMissing(int a[]){
         for(int i=0; i<a.length; i++){
