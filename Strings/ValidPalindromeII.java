@@ -1,5 +1,3 @@
-package Github;
-
 public class ValidPalindromeII {
     boolean checkPalindrome(String s,int i,int j){
         while(i<=j){
