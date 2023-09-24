@@ -1,5 +1,3 @@
-package Github;
-
 public class PalindromicSubstrings {
     int expandAroundindex(String s,int i,int j){
         int count=0;
