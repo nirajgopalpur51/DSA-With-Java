@@ -1,5 +1,3 @@
-package Github;
-
 public class RemoveAllAdjacentDuplicatesInString {
     public static String removeDuplicates(String s) {
         StringBuilder sb=new StringBuilder() ;
