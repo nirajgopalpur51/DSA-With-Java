@@ -1,5 +1,3 @@
-package Github;
-
 public class MaximumNumberofWordsFoundinSentences {
     public static int mostWordsFound(String[] sentences) {
         int n = sentences.length, max_count = 0;
