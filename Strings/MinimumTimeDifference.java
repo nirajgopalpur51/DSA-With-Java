@@ -1,4 +1,3 @@
-package Github;
 import java.util.*;
 public class MinimumTimeDifference {
     public static int  findMinDifference(List<String> timePoints) {
