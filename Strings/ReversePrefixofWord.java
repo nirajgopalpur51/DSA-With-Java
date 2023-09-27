@@ -1,5 +1,3 @@
-package Github;
-
 public class ReversePrefixofWord {
     public static String reversePrefix(String word,char ch){
         int idx=word.indexOf(ch);
