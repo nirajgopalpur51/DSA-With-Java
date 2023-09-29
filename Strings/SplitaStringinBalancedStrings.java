@@ -1,5 +1,3 @@
-package Github;
-
 public class SplitaStringinBalancedStrings {
     public static int balancedStringSplit(String s) {
         int l=0, r=0, count =0;
