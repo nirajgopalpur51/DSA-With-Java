@@ -1,5 +1,3 @@
-package Github;
-
 public class CapitalizetheTitle {
     public static String capitalizeTitle(String title) {
         StringBuilder sb = new StringBuilder();
