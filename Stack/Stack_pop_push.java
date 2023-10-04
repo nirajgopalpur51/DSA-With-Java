@@ -1,5 +1,3 @@
-package Stack;
-
 import DSA.test;
 
 import java.util.EmptyStackException;
