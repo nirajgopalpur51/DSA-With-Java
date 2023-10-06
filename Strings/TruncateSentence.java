@@ -1,5 +1,3 @@
-package Github;
-
 public class TruncateSentence {
     public static String truncateSentence(String s, int k) {
         int count =0;
