@@ -1,5 +1,3 @@
-package Github;
-
 public class ShuffletheArray {
     public static int[] shuffle(int[] nums, int n) {
         int [] arr = new int [2*n];
