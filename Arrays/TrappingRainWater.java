@@ -1,5 +1,3 @@
-package Github;
-
 public class TrappingRainWater {
     public static int trap(int[] height) {
         int left = 0,
