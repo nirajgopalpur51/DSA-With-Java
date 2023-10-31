@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class addMiddle {
 
     public static Node<Integer> head ;
