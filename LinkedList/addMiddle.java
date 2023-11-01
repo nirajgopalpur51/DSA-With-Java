@@ -2,9 +2,10 @@ public class addMiddle {
 
     public static Node<Integer> head ;
     public static Node<Integer> tail;
+    
     public static void add(int data){
         Node newNode=new Node(data);
-        if(newNode==null){
+        if(head==null){
             head=tail=newNode;
             return;
         }
