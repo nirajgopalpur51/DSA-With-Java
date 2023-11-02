@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class removeLast {
     public static Node<Integer> head ;
     public static Node<Integer> tail;
