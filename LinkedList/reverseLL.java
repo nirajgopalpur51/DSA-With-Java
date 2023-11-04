@@ -1,3 +1,5 @@
+package LinkedList;
+
 public class reverseLL {
     public static Node<Integer> head ;
     public static Node<Integer> tail;
