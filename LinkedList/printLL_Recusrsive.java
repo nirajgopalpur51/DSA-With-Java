@@ -1,5 +1,3 @@
-package LinkedList;
-
 import java.util.Scanner;
 
 public class printLL_Recusrsive {
