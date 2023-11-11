@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class removeFirst {
     public static Node<Integer> head ;
     public static Node<Integer> tail;
