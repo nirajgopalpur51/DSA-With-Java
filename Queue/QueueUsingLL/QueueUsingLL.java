@@ -1,5 +1,3 @@
-package Queue;
-
 public class QueueUsingLL<T> {
 
 	private Node<T> front;
