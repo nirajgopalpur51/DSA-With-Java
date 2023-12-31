@@ -1,8 +1,3 @@
-package Tree;
-
-//import Queue.Node;
-//import Queue.QueueEmptyException;
-
 public class QueueUsingLL<T> {
 
 	private Node<T> front;
