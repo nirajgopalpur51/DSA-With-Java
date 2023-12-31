@@ -1,5 +1,3 @@
-package Tree;
-
 public class QueueEmptyException extends Exception {
 
 	/**
