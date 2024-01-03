@@ -1,5 +1,3 @@
-package BinaryTree;
-
 public class BinaryTreeNode<T> {
     public BinaryTreeNode(T data){
         this.data=data;
