@@ -1,4 +1,3 @@
-package BinaryTree;
 
 public class Node<T> {
     T data;
