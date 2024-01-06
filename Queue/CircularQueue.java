@@ -1,5 +1,3 @@
-package Queue;
-
 public class CircularQueue {
     private int data[];
     private int front;
