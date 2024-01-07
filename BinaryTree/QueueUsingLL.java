@@ -1,5 +1,3 @@
-package BinaryTree;
-
 public class QueueUsingLL<T> {
 
 	private Node<T> front;
