@@ -1,5 +1,3 @@
-package String;
-
 import java.util.*;
 
 public class DecodetheMessage {
