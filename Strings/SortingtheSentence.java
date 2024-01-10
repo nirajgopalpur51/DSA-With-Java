@@ -1,5 +1,3 @@
-package String;
-
 public class SortingtheSentence {
     public static String sortSentence(String s) {
         String str[] = s.split(" ");
