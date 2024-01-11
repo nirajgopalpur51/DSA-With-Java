@@ -1,5 +1,3 @@
-package BinaryTree;
-
 public class SubtreeofAnotherTree {
 
     static class Node{
