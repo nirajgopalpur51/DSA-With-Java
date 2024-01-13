@@ -1,5 +1,3 @@
-package BinaryTree;
-
 import java.util.Scanner;
 
 public class BinaryTreeUse {
