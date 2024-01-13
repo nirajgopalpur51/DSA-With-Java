@@ -1,4 +1,3 @@
-package BinaryTree;
 public class RootEqualsSumofChildren {
 
     static class Node{
