@@ -1,5 +1,3 @@
-package BST;
-
 public class BST {
     public static class Node{
         int data;
