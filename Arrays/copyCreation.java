@@ -1,5 +1,3 @@
-package Array;
-
 public class copyCreation {
 
     public static void inc(int a){
