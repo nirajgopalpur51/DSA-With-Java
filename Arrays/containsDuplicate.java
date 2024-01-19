@@ -1,4 +1,3 @@
-package Github;
 import java.util.*;
 public class containsDuplicate {
     public static boolean containsDuplicate(int[] nums) {
