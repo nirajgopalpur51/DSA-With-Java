@@ -1,5 +1,3 @@
-package Array;
-
 public class divideUsingBinary {
     public static  long divisorUsingBin(long dividend,long divisor){
         long s=0;
