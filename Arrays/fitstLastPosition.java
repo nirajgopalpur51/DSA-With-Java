@@ -1,5 +1,3 @@
-package Github;
-
 public class fitstLastPosition {
     public static int[] searchRange(int[] nums, int target) {
         int arr[] = new int[2];
