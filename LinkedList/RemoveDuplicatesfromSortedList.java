@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class RemoveDuplicatesfromSortedList {
     public static ListNode deleteDuplicates(ListNode head) {
         ListNode prev = head;
