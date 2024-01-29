@@ -1,4 +1,3 @@
-package PriorityQueue;
 import java.util.*;
 
 public class Classroom {
