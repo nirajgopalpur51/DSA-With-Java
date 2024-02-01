@@ -1,5 +1,3 @@
-package Github;
-
 public class DetectCapital {
     public static boolean detectCapitalUse(String word) {
         int caps=0,low=0,first=0;
