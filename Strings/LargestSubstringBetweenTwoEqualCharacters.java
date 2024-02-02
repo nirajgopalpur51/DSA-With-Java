@@ -1,5 +1,3 @@
-package Github;
-
 public class LargestSubstringBetweenTwoEqualCharacters {
     public static int maxLengthBetweenEqualCharacters(String s) {
         int max=-1;
