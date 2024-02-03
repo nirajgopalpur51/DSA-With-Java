@@ -1,5 +1,4 @@
 public class TreeUse {
-
 	public static void main(String[] args) {
 		TreeNode<Integer> root = new TreeNode<Integer>(4);
 		TreeNode<Integer> node1 = new TreeNode<Integer>(2);
