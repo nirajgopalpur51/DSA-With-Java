@@ -1,5 +1,3 @@
-package DP;
-
 public class fibbonacci {
     public static int fib(int n,int dp[]){
         if(n==1 || n==0){
