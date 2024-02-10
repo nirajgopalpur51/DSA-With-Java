@@ -1,4 +1,3 @@
-package DP;
 import java.util.*;
 public class ClimbingStairs {
     public static int climbStairs(int n) {
