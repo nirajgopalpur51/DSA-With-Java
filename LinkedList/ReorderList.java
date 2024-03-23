@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class ReorderList {
     public ListNode reverse(ListNode head) {
         if (head == null) return null;
