@@ -1,5 +1,3 @@
-package DP;
-
 public class NthTribonacciNumber {
     public static int tribonacci(int n) {
         if(n<=2){
