@@ -1,5 +1,3 @@
-package Array;
-
 public class MaximumSubarray {
     public static int maxSubArray(int[] nums) {
         int sum=0;
