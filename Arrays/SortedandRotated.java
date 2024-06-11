@@ -1,5 +1,3 @@
-package Array;
-
 public class SortedandRotated {
     public boolean check(int[] nums) {
         int count =0;
