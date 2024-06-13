@@ -1,4 +1,3 @@
-
 import java.util.*;
 public class MinimumNumberofMovestoSeatEveryone {
     public int minMovesToSeat(int[] seats, int[] students) {
