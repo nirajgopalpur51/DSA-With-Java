@@ -1,5 +1,3 @@
-package Math;
-
 public class SumofSquareNumbers {
     public boolean judgeSquareSum(int c) {
         long a =0;
