@@ -1,5 +1,3 @@
-package Array;
-
 public class RearrangeArrayElementsbySign {
     public int[] rearrangeArray(int[] nums) {
 
