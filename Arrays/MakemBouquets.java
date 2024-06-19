@@ -1,5 +1,3 @@
-package Array;
-
 public class MakemBouquets {
     public int minDays(int[] bloomDay, int m, int k) {
         if ((long) m * k > bloomDay.length) {
