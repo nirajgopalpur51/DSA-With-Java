@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class MinimumCommonValue {
     public static int getCommon(int[] nums1, int[] nums2) {
