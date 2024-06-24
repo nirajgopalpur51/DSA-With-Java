@@ -1,5 +1,3 @@
-package String;
-
 public class StringtoIntegeratoi {
     public int myAtoi(String s) {
         s = s.trim();
