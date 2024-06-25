@@ -20,9 +20,6 @@ public class firstPalindrome {
 
 
     public static void main(String[] args) {
-//        boolean b=10==10;
-//        System.out.println(b);
-
         String arr[] = {"abc","car","ada","racecar","cool" };
         System.out.println(firstPalindrome(arr));
     }
