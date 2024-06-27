@@ -1,5 +1,3 @@
-
-
 public class FindCenterofStarGraph {
     public int findCenter(int[][] edges) {
         int pair1[] = edges[0];
