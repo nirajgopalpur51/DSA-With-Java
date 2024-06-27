@@ -1,4 +1,4 @@
-package Graphs;
+
 
 public class FindCenterofStarGraph {
     public int findCenter(int[][] edges) {
