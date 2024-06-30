@@ -1,5 +1,3 @@
-package Github;
-import java.util.*;
 public class pascalTriangle {
     public static List<List<Integer>> generate(int numRows) {
         if(numRows==0) return new  ArrayList();
