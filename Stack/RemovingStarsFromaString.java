@@ -1,7 +1,3 @@
-package Stack;
-
-import java.util.*;
-
 public class RemovingStarsFromaString {
         public static String removeStars(String s) {
             Deque<Character> stack = new ArrayDeque<>();
