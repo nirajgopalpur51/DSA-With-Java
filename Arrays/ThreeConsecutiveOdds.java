@@ -1,5 +1,3 @@
-package Array;
-
 public class ThreeConsecutiveOdds {
     public boolean threeConsecutiveOdds(int[] arr) {
         int sum = 0;
