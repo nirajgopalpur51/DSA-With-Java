@@ -1,4 +1,3 @@
-package Array;
 import java.util.*;
 public class SpiralMatrix {
     public List<Integer> spiralOrder(int[][] matrix) {
