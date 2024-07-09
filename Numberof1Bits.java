@@ -1,3 +1,4 @@
+
 public class Numberof1Bits {
     public int hammingWeight(int n) {
         int count = 0;
