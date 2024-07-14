@@ -1,5 +1,3 @@
-package LinkedList;
-
 public class Sort0and1and2 {
     static Node segregate(Node head) {
         // add your code here
