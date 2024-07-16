@@ -7,6 +7,7 @@ public class GroupAnagrams {
         Map<String, List<String>> stringAnagramsMap = new HashMap<>();
 
         for (String s : strs) {
+            
             char[] arr = s.toCharArray();
             Arrays.sort(arr);
             String key = String.valueOf(arr);
