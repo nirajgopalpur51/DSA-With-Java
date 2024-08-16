@@ -1,4 +1,3 @@
-package Array;
 import java.util.*;
 public class MaximumDistanceinArrays {
     public int maxDistance(List<List<Integer>> arrays) {
