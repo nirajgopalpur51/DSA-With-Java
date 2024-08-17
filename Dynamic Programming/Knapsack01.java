@@ -1,5 +1,3 @@
-package DP;
-
 public class Knapsack01 {
     public static int knapsack(int val[],int wt[],int W,int n){
         if(W==0 || n==0){
