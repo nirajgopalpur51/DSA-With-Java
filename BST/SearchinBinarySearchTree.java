@@ -1,4 +1,3 @@
-
 public class SearchinBinarySearchTree {
     public TreeNode searchBST(TreeNode root, int val) {
         if(root == null){
