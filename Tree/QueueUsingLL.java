@@ -21,7 +21,6 @@ public class QueueUsingLL<T> {
 		}	
 		return front.data;
 	}
-
 	void enqueue(T element){
 		Node<T> newNode = new Node<>(element);
 		if(rear == null){
