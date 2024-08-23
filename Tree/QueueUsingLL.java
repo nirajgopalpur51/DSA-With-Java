@@ -11,7 +11,6 @@ public class QueueUsingLL<T> {
 	int size(){
 		return size;
 	}
-
 	boolean isEmpty(){
 		return size == 0;
 	}
