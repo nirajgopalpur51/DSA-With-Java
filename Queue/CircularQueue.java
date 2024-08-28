@@ -5,7 +5,7 @@ public class CircularQueue {
     private int size;
 
     public CircularQueue(){
-
+ 
         data= new int[5];
         front= -1;
         rear= -1;
