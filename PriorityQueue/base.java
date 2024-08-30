@@ -6,7 +6,7 @@ public class base {
         PriorityQueue<Integer> pq =new PriorityQueue<>(Comparator.reverseOrder());
 
         pq.add(3);
-        pq.add(1);
+        pq.add(1); 
         pq.add(0);
         pq.add(4);
 
