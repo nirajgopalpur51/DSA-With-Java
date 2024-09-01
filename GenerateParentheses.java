@@ -4,7 +4,7 @@ public class GenerateParentheses {
         List<String> res = new ArrayList<String>();
         recurse(res, 0, 0, "", n);
         return res;
-    }
+    } 
 
     public static void recurse(List<String> res, int left, int right, String s, int n) {
         if (s.length() == n * 2) {
