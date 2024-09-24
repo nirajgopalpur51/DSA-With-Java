@@ -1,5 +1,3 @@
-package DP;
-
 public class KnapsackMemoization {
     public static int knapsack(int val[],int wt[],int W,int n,int dp[][]){
         if(W==0 || n==0){
