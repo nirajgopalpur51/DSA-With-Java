@@ -1,5 +1,3 @@
-package Queue;
-
 public class ImplementQueueusingStacks {
     private Stack<Integer> s1;
     private Stack<Integer> s2;
