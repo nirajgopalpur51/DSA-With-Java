@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class AsteroidCollision {
-    public int[] asteroidCollision(int[] arr) {
+    public int[] asteroidCollision(int[] arr) 
         int n = arr.length;
         for(int i=1; i<n; i++){
             for(int j=i; j>0; j--){
