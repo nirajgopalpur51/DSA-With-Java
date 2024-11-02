@@ -14,7 +14,7 @@ class Node {
 
     public Node(int _val, List<Node> _children) {
         val = _val;
-        children = _children;
+        children = _children; 
     }
 };
 */
