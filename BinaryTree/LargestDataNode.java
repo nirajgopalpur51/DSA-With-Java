@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class LargestDataNode {
 
     public static BinaryTreeNode<Integer> takeInputLevelWise() {
